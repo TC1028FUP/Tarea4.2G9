@@ -9,11 +9,6 @@
 sudo -H pip3 install pytest
 ```
 
-- ## 06 Promedio con Decision
-    ### Run command
-    ```
-    pytest assignments/06PromedioConDecision
-    ```
 
 - ## 07 Cantidad Pares
     ### Run command
